@@ -76,7 +76,7 @@ sip: <number>
 title: <VIP title>  
 status: WIP  
 author: list of the author's or authors' name(s) and/or username(s), or name(s) and email(s), e.g. (use with the parentheses or triangular brackets): FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)  
-sponsors: as above  
+sponsors/seconders: pre-proposal seconders or those sponsoring above token threshold 
 discussions-to: <Create a new thread on Discourse and drop the link here>  
   
 created: date created on, in ISO 8601 (yyyy-mm-dd) format
