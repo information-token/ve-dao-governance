@@ -58,30 +58,31 @@ The proposer, via veDAO Team Members, will coordinate with the [community multis
 
 ### GOVERNANCE ROLES
 
-The stakeholders for the governance process can be both internal and external. Various governance roles exist to ensure the stakeholders engage in delivering the type of value desired or expected. The key roles and responsibilities of veDAO governance are:
+The stakeholders for the governance process can be both internal and external. Various governance roles exist to ensure the stakeholders engage in delivering the type of value desired or expected. The key roles and responsibilities of veDAO governance are:  
 
-VeDAO Team Members
-Team member powers and responsibilities:
-Provide feedback on proposals
-Advise on how best to create a passing proposal
-Create channels and shepherd discussions in Discord and Discourse
-Post announcements of voting start on social channels (Discord, TG, Twitter)
-Who: Anyone with a veDAO Team role in Discord
+#### VeDAO Team Members 
+Team member powers and responsibilities:  
+*Provide feedback on proposals
+*Advise on how best to create a passing proposal
+*Create channels and shepherd discussions in Discord and Discourse
+*Post announcements of voting start on social channels (Discord, TG, Twitter)
+*Who: Anyone with a veDAO Team role in Discord
 
 
 ### TEMPLATE
 ---
-sip: <number> 
+```
+sip: <number>  
 title: <VIP title>  
 status: WIP  
-author: list of the author's or authors' name(s) and/or username(s), or name(s) and email(s), e.g. (use with the parentheses or triangular brackets): FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)
+author: list of the author's or authors' name(s) and/or username(s), or name(s) and email(s), e.g. (use with the parentheses or triangular brackets): FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)  
 sponsors: as above  
 discussions-to: <Create a new thread on Discourse and drop the link here>  
   
 created: date created on, in ISO 8601 (yyyy-mm-dd) format
 
+```
 ---
-
 This is the suggested template for new VIPs. 
 
 #### Simple Summary
