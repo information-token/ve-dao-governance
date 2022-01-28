@@ -3,10 +3,10 @@ VIP stands for veDAO Improvement Proposal.
 
 Important links:
 
-* Discord
-* ​Discourse (link)
-* ​Snapshot​
-* Proposal Process
+* [Discord](https://discord.com/invite/vedao)
+* ​[Discourse](https://forum.vedao.io)
+* ​[Snapshot](https://snapshot.org/#/vedaogov.eth)
+* [Proposal Process](https://github.com/information-token/ve-dao-governance/)
 
 VIP stands for veDAO Improvement Proposal. A VIP is a design document providing information to the veDAO community about a proposed change to the DAO. The author builds consensus within the community and documents dissenting opinions.
 
